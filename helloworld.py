@@ -1,0 +1,6 @@
+print("Hello, World!")
+print("My name is Goodluck Aberare.")
+print("I am a student at Brigham Young University (BYU).")
+print("I am currently studying CSE 310 - Applied Programming.")
+print("I am excited to improve my programming skills using Python!")
+print("Welcome to my programming journey!")
